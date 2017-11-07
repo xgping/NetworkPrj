@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetworkLib/app.iml" filepath="$PROJECT_DIR$/NetworkLib/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkPrj.iml" filepath="$PROJECT_DIR$/NetworkPrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkSample/NetworkSample.iml" filepath="$PROJECT_DIR$/NetworkSample/NetworkSample.iml" />
+    </modules>
+  </component>
+</project>
